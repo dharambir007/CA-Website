@@ -1,0 +1,10 @@
+{
+  "name": "ca-website",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npm --prefix ca-website-frontend run build",
+    "dev": "npm --prefix ca-website-frontend run dev",
+    "start": "npm --prefix ca-website-frontend run preview"
+  }
+}

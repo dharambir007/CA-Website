@@ -3,8 +3,8 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "build": "npm install --prefix ca-website-frontend && npm --prefix ca-website-frontend run build",
-    "dev": "npm --prefix ca-website-frontend run dev",
-    "start": "npm --prefix ca-website-frontend run preview"
+    "build": "npm install --prefix jssaandco && npm --prefix jssaandco run build",
+    "dev": "npm --prefix jssaandco run dev",
+    "start": "npm --prefix jssaandco run preview"
   }
 }
